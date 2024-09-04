@@ -593,7 +593,7 @@ return 0;
 
 ## OUTPUT:
 OUTPUT:
-![Screenshot 2024-09-04 185209](https://github.com/user-attachments/assets/890a7a74-c1b6-42e4-a4e0-16d0cfd3b5c5)
+![Screenshot 2024-09-04 185209](https://github.com/user-attachments/assets/de6223cd-ec28-4a88-acb1-ba856a548f99)
 
 ## RESULT:
 The program is executed successfully
