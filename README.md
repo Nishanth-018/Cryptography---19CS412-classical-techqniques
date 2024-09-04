@@ -512,6 +512,7 @@ void decipher() {
     }
     printf("\n");  // Added newline for output formatting
 }
+~~~
 
 ## OUTPUT:
 ![Screenshot 2024-09-04 182634](https://github.com/user-attachments/assets/2a78a533-d64a-4489-8988-338109814839)
